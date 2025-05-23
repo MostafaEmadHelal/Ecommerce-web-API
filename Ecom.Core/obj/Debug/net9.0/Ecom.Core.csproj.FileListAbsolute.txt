@@ -1,0 +1,13 @@
+E:\ITI Scholarship\Ecom\Full-Stack-Ecommerce-Web-API-Angular\Ecom.Core\bin\Debug\net9.0\Ecom.Core.deps.json
+E:\ITI Scholarship\Ecom\Full-Stack-Ecommerce-Web-API-Angular\Ecom.Core\bin\Debug\net9.0\Ecom.Core.dll
+E:\ITI Scholarship\Ecom\Full-Stack-Ecommerce-Web-API-Angular\Ecom.Core\bin\Debug\net9.0\Ecom.Core.pdb
+E:\ITI Scholarship\Ecom\Full-Stack-Ecommerce-Web-API-Angular\Ecom.Core\obj\Debug\net9.0\Ecom.Core.csproj.AssemblyReference.cache
+E:\ITI Scholarship\Ecom\Full-Stack-Ecommerce-Web-API-Angular\Ecom.Core\obj\Debug\net9.0\Ecom.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI Scholarship\Ecom\Full-Stack-Ecommerce-Web-API-Angular\Ecom.Core\obj\Debug\net9.0\Ecom.Core.AssemblyInfoInputs.cache
+E:\ITI Scholarship\Ecom\Full-Stack-Ecommerce-Web-API-Angular\Ecom.Core\obj\Debug\net9.0\Ecom.Core.AssemblyInfo.cs
+E:\ITI Scholarship\Ecom\Full-Stack-Ecommerce-Web-API-Angular\Ecom.Core\obj\Debug\net9.0\Ecom.Core.csproj.CoreCompileInputs.cache
+E:\ITI Scholarship\Ecom\Full-Stack-Ecommerce-Web-API-Angular\Ecom.Core\obj\Debug\net9.0\Ecom.Core.sourcelink.json
+E:\ITI Scholarship\Ecom\Full-Stack-Ecommerce-Web-API-Angular\Ecom.Core\obj\Debug\net9.0\Ecom.Core.dll
+E:\ITI Scholarship\Ecom\Full-Stack-Ecommerce-Web-API-Angular\Ecom.Core\obj\Debug\net9.0\refint\Ecom.Core.dll
+E:\ITI Scholarship\Ecom\Full-Stack-Ecommerce-Web-API-Angular\Ecom.Core\obj\Debug\net9.0\Ecom.Core.pdb
+E:\ITI Scholarship\Ecom\Full-Stack-Ecommerce-Web-API-Angular\Ecom.Core\obj\Debug\net9.0\ref\Ecom.Core.dll

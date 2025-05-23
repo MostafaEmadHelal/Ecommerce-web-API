@@ -1,0 +1,990 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "Images/ Sofa/vecteezy_modern-and-stylish-sofa-home-interior-furniture-stylish_24788139.c235cb9suz.png",
+      "AssetFile": "Images/ Sofa/vecteezy_modern-and-stylish-sofa-home-interior-furniture-stylish_24788139.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2539577"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PDnDiTC+Kn6vykFOIUWTrSIKtAjrOynkFH90iqrgCR4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:59:07 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c235cb9suz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PDnDiTC+Kn6vykFOIUWTrSIKtAjrOynkFH90iqrgCR4="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/ Sofa/vecteezy_modern-and-stylish-sofa-home-interior-furniture-stylish_24788139.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/ Sofa/vecteezy_modern-and-stylish-sofa-home-interior-furniture-stylish_24788139.png",
+      "AssetFile": "Images/ Sofa/vecteezy_modern-and-stylish-sofa-home-interior-furniture-stylish_24788139.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2539577"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PDnDiTC+Kn6vykFOIUWTrSIKtAjrOynkFH90iqrgCR4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:59:07 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PDnDiTC+Kn6vykFOIUWTrSIKtAjrOynkFH90iqrgCR4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Chair1/vecteezy_ai-generated-armchair-furniture-isolated-on-transparent_40452815.enzw70kxpw.png",
+      "AssetFile": "Images/Chair1/vecteezy_ai-generated-armchair-furniture-isolated-on-transparent_40452815.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2505642"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hpwIjgV0bJaGd53p/OKAIX7qWuCudUZ1mPoDI0V9/ro=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:43:50 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "enzw70kxpw"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hpwIjgV0bJaGd53p/OKAIX7qWuCudUZ1mPoDI0V9/ro="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Chair1/vecteezy_ai-generated-armchair-furniture-isolated-on-transparent_40452815.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Chair1/vecteezy_ai-generated-armchair-furniture-isolated-on-transparent_40452815.png",
+      "AssetFile": "Images/Chair1/vecteezy_ai-generated-armchair-furniture-isolated-on-transparent_40452815.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2505642"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hpwIjgV0bJaGd53p/OKAIX7qWuCudUZ1mPoDI0V9/ro=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:43:50 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hpwIjgV0bJaGd53p/OKAIX7qWuCudUZ1mPoDI0V9/ro="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Chair1/vecteezy_modern-yellow-armchair-png-with-ai-generated_33888588.dwnptzm5ew.png",
+      "AssetFile": "Images/Chair1/vecteezy_modern-yellow-armchair-png-with-ai-generated_33888588.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10269221"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PY6eFmTH4JIsUAXP5MDtY3z39YBQCbvIUGrU+KmNt6M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:43:50 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dwnptzm5ew"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PY6eFmTH4JIsUAXP5MDtY3z39YBQCbvIUGrU+KmNt6M="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Chair1/vecteezy_modern-yellow-armchair-png-with-ai-generated_33888588.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Chair1/vecteezy_modern-yellow-armchair-png-with-ai-generated_33888588.png",
+      "AssetFile": "Images/Chair1/vecteezy_modern-yellow-armchair-png-with-ai-generated_33888588.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10269221"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PY6eFmTH4JIsUAXP5MDtY3z39YBQCbvIUGrU+KmNt6M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:43:50 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PY6eFmTH4JIsUAXP5MDtY3z39YBQCbvIUGrU+KmNt6M="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Chair1/vecteezy_modern-yellow-armchair-png-with-ai-generated_33888620.nlmddnvqq4.png",
+      "AssetFile": "Images/Chair1/vecteezy_modern-yellow-armchair-png-with-ai-generated_33888620.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9969444"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qwxbLkh60Akwzae+p/05D7PylRiq7F1PJ1CYj0601uU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:43:50 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nlmddnvqq4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qwxbLkh60Akwzae+p/05D7PylRiq7F1PJ1CYj0601uU="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Chair1/vecteezy_modern-yellow-armchair-png-with-ai-generated_33888620.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Chair1/vecteezy_modern-yellow-armchair-png-with-ai-generated_33888620.png",
+      "AssetFile": "Images/Chair1/vecteezy_modern-yellow-armchair-png-with-ai-generated_33888620.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9969444"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qwxbLkh60Akwzae+p/05D7PylRiq7F1PJ1CYj0601uU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:43:50 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qwxbLkh60Akwzae+p/05D7PylRiq7F1PJ1CYj0601uU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Office chair/vecteezy_ai-generated-modern-office-chair-on-png-background_41385467.fdn1gx031v.png",
+      "AssetFile": "Images/Office chair/vecteezy_ai-generated-modern-office-chair-on-png-background_41385467.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6856463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bd+dfRZ/D0n+mScmvLhHVviCcfLOWZ3plUhcw9w5SqE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:45:11 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fdn1gx031v"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bd+dfRZ/D0n+mScmvLhHVviCcfLOWZ3plUhcw9w5SqE="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Office chair/vecteezy_ai-generated-modern-office-chair-on-png-background_41385467.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Office chair/vecteezy_ai-generated-modern-office-chair-on-png-background_41385467.png",
+      "AssetFile": "Images/Office chair/vecteezy_ai-generated-modern-office-chair-on-png-background_41385467.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6856463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bd+dfRZ/D0n+mScmvLhHVviCcfLOWZ3plUhcw9w5SqE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:45:11 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bd+dfRZ/D0n+mScmvLhHVviCcfLOWZ3plUhcw9w5SqE="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Office chair/vecteezy_office-chair-isolated-on-transparent_22449107.do7coyqof0.png",
+      "AssetFile": "Images/Office chair/vecteezy_office-chair-isolated-on-transparent_22449107.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3041793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3THGCSL2KhxuSb1Py6B0HCox4H81A3Pl94UGg4JqbAQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:45:11 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "do7coyqof0"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3THGCSL2KhxuSb1Py6B0HCox4H81A3Pl94UGg4JqbAQ="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Office chair/vecteezy_office-chair-isolated-on-transparent_22449107.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Office chair/vecteezy_office-chair-isolated-on-transparent_22449107.png",
+      "AssetFile": "Images/Office chair/vecteezy_office-chair-isolated-on-transparent_22449107.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3041793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3THGCSL2KhxuSb1Py6B0HCox4H81A3Pl94UGg4JqbAQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:45:11 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3THGCSL2KhxuSb1Py6B0HCox4H81A3Pl94UGg4JqbAQ="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Office chair/vecteezy_office-chair-with-red-seat-and-chrome-frame_56565249.ce0zl7sjpz.png",
+      "AssetFile": "Images/Office chair/vecteezy_office-chair-with-red-seat-and-chrome-frame_56565249.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5636112"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"POIIrF2gg5TFymidQFCys3I03T6pyg18seRvR0RUn8c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:45:11 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ce0zl7sjpz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-POIIrF2gg5TFymidQFCys3I03T6pyg18seRvR0RUn8c="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Office chair/vecteezy_office-chair-with-red-seat-and-chrome-frame_56565249.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/Office chair/vecteezy_office-chair-with-red-seat-and-chrome-frame_56565249.png",
+      "AssetFile": "Images/Office chair/vecteezy_office-chair-with-red-seat-and-chrome-frame_56565249.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5636112"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"POIIrF2gg5TFymidQFCys3I03T6pyg18seRvR0RUn8c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:45:11 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-POIIrF2gg5TFymidQFCys3I03T6pyg18seRvR0RUn8c="
+        }
+      ]
+    },
+    {
+      "Route": "Images/comfort chair/vecteezy_cozy-seating-event-green-bean-bag-chair-home-interior_54587804.kszcbrd5td.png",
+      "AssetFile": "Images/comfort chair/vecteezy_cozy-seating-event-green-bean-bag-chair-home-interior_54587804.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4816382"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NIf+pIWdFh0xl0b5pdbJkYTI0GoNvYSvLlWBXhCSn18=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:46:06 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kszcbrd5td"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NIf+pIWdFh0xl0b5pdbJkYTI0GoNvYSvLlWBXhCSn18="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/comfort chair/vecteezy_cozy-seating-event-green-bean-bag-chair-home-interior_54587804.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/comfort chair/vecteezy_cozy-seating-event-green-bean-bag-chair-home-interior_54587804.png",
+      "AssetFile": "Images/comfort chair/vecteezy_cozy-seating-event-green-bean-bag-chair-home-interior_54587804.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4816382"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NIf+pIWdFh0xl0b5pdbJkYTI0GoNvYSvLlWBXhCSn18=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:46:06 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NIf+pIWdFh0xl0b5pdbJkYTI0GoNvYSvLlWBXhCSn18="
+        }
+      ]
+    },
+    {
+      "Route": "Images/modern bed/vecteezy_a-bed-with-a-gold-headboard-and-blue-velvet_50381114.n3fpvw6fzj.png",
+      "AssetFile": "Images/modern bed/vecteezy_a-bed-with-a-gold-headboard-and-blue-velvet_50381114.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8706052"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tcgfr1UHOBjNM1nk9iI1gdImi+YjLoaD+sFoLZjVvDA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:49:55 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n3fpvw6fzj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tcgfr1UHOBjNM1nk9iI1gdImi+YjLoaD+sFoLZjVvDA="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/modern bed/vecteezy_a-bed-with-a-gold-headboard-and-blue-velvet_50381114.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/modern bed/vecteezy_a-bed-with-a-gold-headboard-and-blue-velvet_50381114.png",
+      "AssetFile": "Images/modern bed/vecteezy_a-bed-with-a-gold-headboard-and-blue-velvet_50381114.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8706052"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tcgfr1UHOBjNM1nk9iI1gdImi+YjLoaD+sFoLZjVvDA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:49:55 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tcgfr1UHOBjNM1nk9iI1gdImi+YjLoaD+sFoLZjVvDA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/modern bed/vecteezy_comfortable-bed-with-tufted-headboard-and-linens_50278051.fvjvjndbey.png",
+      "AssetFile": "Images/modern bed/vecteezy_comfortable-bed-with-tufted-headboard-and-linens_50278051.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12801065"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W7UIllt4ETVIUFXofmA8Bqo1l1sF/nOvee7pr8ilVJY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:49:55 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fvjvjndbey"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W7UIllt4ETVIUFXofmA8Bqo1l1sF/nOvee7pr8ilVJY="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/modern bed/vecteezy_comfortable-bed-with-tufted-headboard-and-linens_50278051.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/modern bed/vecteezy_comfortable-bed-with-tufted-headboard-and-linens_50278051.png",
+      "AssetFile": "Images/modern bed/vecteezy_comfortable-bed-with-tufted-headboard-and-linens_50278051.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12801065"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W7UIllt4ETVIUFXofmA8Bqo1l1sF/nOvee7pr8ilVJY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:49:55 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W7UIllt4ETVIUFXofmA8Bqo1l1sF/nOvee7pr8ilVJY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/new bed/vecteezy_double-bed-on-transparent-background_48718808.ng7slowud4.png",
+      "AssetFile": "Images/new bed/vecteezy_double-bed-on-transparent-background_48718808.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11056604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Oda38axqq8eEsC5fQ8PpAcukihAsK9Dg7++Wo+DBLHw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:55:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ng7slowud4"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Oda38axqq8eEsC5fQ8PpAcukihAsK9Dg7++Wo+DBLHw="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/new bed/vecteezy_double-bed-on-transparent-background_48718808.png"
+        }
+      ]
+    },
+    {
+      "Route": "Images/new bed/vecteezy_double-bed-on-transparent-background_48718808.png",
+      "AssetFile": "Images/new bed/vecteezy_double-bed-on-transparent-background_48718808.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11056604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Oda38axqq8eEsC5fQ8PpAcukihAsK9Dg7++Wo+DBLHw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:55:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Oda38axqq8eEsC5fQ8PpAcukihAsK9Dg7++Wo+DBLHw="
+        }
+      ]
+    },
+    {
+      "Route": "Images/new bed/vecteezy_double-bed-on-transparent-background_48718864.png",
+      "AssetFile": "Images/new bed/vecteezy_double-bed-on-transparent-background_48718864.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10828270"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NkDKeL8+aQ1WgXCJeMZQbnGtZPhEBWZqqsZNut6t894=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:55:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NkDKeL8+aQ1WgXCJeMZQbnGtZPhEBWZqqsZNut6t894="
+        }
+      ]
+    },
+    {
+      "Route": "Images/new bed/vecteezy_double-bed-on-transparent-background_48718864.uanpyfw0rt.png",
+      "AssetFile": "Images/new bed/vecteezy_double-bed-on-transparent-background_48718864.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10828270"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NkDKeL8+aQ1WgXCJeMZQbnGtZPhEBWZqqsZNut6t894=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:55:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uanpyfw0rt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NkDKeL8+aQ1WgXCJeMZQbnGtZPhEBWZqqsZNut6t894="
+        },
+        {
+          "Name": "label",
+          "Value": "Images/new bed/vecteezy_double-bed-on-transparent-background_48718864.png"
+        }
+      ]
+    }
+  ]
+}

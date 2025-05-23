@@ -1,0 +1,9 @@
+E:\ITI Scholarship\Ecom\Full-Stack-Ecommerce-Web-API-Angular\Ecom.API\wwwroot\Images\acer\1732545587227.jpg
+E:\ITI Scholarship\Ecom\Full-Stack-Ecommerce-Web-API-Angular\Ecom.API\wwwroot\Images\acer\Screenshot 2024-10-21 193216.png
+E:\ITI Scholarship\Ecom\Full-Stack-Ecommerce-Web-API-Angular\Ecom.API\wwwroot\Images\assus\product1.jpg
+E:\ITI Scholarship\Ecom\Full-Stack-Ecommerce-Web-API-Angular\Ecom.API\wwwroot\Images\assus\product2.jpg
+E:\ITI Scholarship\Ecom\Full-Stack-Ecommerce-Web-API-Angular\Ecom.API\wwwroot\Images\assus\product3.jpg
+E:\ITI Scholarship\Ecom\Full-Stack-Ecommerce-Web-API-Angular\Ecom.API\wwwroot\Images\dell\495196806_716320561051999_3898869029024633198_n.jpg
+E:\ITI Scholarship\Ecom\Full-Stack-Ecommerce-Web-API-Angular\Ecom.API\wwwroot\Images\lenovo\Screenshot 2024-10-21 193216.png
+E:\ITI Scholarship\Ecom\Full-Stack-Ecommerce-Web-API-Angular\Ecom.API\wwwroot\Images\lenovo\Screenshot 2025-05-01 171108.png
+E:\ITI Scholarship\Ecom\Full-Stack-Ecommerce-Web-API-Angular\Ecom.API\wwwroot\Images\test\Screenshot 2025-05-01 171108.png

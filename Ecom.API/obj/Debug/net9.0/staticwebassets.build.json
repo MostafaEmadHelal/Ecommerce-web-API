@@ -1,0 +1,1258 @@
+{
+  "Version": 1,
+  "Hash": "vTTyKnXrBZouBGiU/XWO8H8sz31j9WfK8kpBmR1PrP8=",
+  "Source": "Ecom.API",
+  "BasePath": "_content/Ecom.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Ecom.API\\wwwroot",
+      "Source": "Ecom.API",
+      "ContentRoot": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\ Sofa\\vecteezy_modern-and-stylish-sofa-home-interior-furniture-stylish_24788139.png",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "Images/ Sofa/vecteezy_modern-and-stylish-sofa-home-interior-furniture-stylish_24788139#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c235cb9suz",
+      "Integrity": "PDnDiTC+Kn6vykFOIUWTrSIKtAjrOynkFH90iqrgCR4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\ Sofa\\vecteezy_modern-and-stylish-sofa-home-interior-furniture-stylish_24788139.png"
+    },
+    {
+      "Identity": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\Chair1\\vecteezy_ai-generated-armchair-furniture-isolated-on-transparent_40452815.png",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "Images/Chair1/vecteezy_ai-generated-armchair-furniture-isolated-on-transparent_40452815#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "enzw70kxpw",
+      "Integrity": "hpwIjgV0bJaGd53p/OKAIX7qWuCudUZ1mPoDI0V9/ro=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Chair1\\vecteezy_ai-generated-armchair-furniture-isolated-on-transparent_40452815.png"
+    },
+    {
+      "Identity": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\Chair1\\vecteezy_modern-yellow-armchair-png-with-ai-generated_33888588.png",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "Images/Chair1/vecteezy_modern-yellow-armchair-png-with-ai-generated_33888588#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dwnptzm5ew",
+      "Integrity": "PY6eFmTH4JIsUAXP5MDtY3z39YBQCbvIUGrU+KmNt6M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Chair1\\vecteezy_modern-yellow-armchair-png-with-ai-generated_33888588.png"
+    },
+    {
+      "Identity": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\Chair1\\vecteezy_modern-yellow-armchair-png-with-ai-generated_33888620.png",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "Images/Chair1/vecteezy_modern-yellow-armchair-png-with-ai-generated_33888620#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nlmddnvqq4",
+      "Integrity": "qwxbLkh60Akwzae+p/05D7PylRiq7F1PJ1CYj0601uU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Chair1\\vecteezy_modern-yellow-armchair-png-with-ai-generated_33888620.png"
+    },
+    {
+      "Identity": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\comfort chair\\vecteezy_cozy-seating-event-green-bean-bag-chair-home-interior_54587804.png",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "Images/comfort chair/vecteezy_cozy-seating-event-green-bean-bag-chair-home-interior_54587804#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kszcbrd5td",
+      "Integrity": "NIf+pIWdFh0xl0b5pdbJkYTI0GoNvYSvLlWBXhCSn18=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\comfort chair\\vecteezy_cozy-seating-event-green-bean-bag-chair-home-interior_54587804.png"
+    },
+    {
+      "Identity": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\modern bed\\vecteezy_a-bed-with-a-gold-headboard-and-blue-velvet_50381114.png",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "Images/modern bed/vecteezy_a-bed-with-a-gold-headboard-and-blue-velvet_50381114#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n3fpvw6fzj",
+      "Integrity": "Tcgfr1UHOBjNM1nk9iI1gdImi+YjLoaD+sFoLZjVvDA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\modern bed\\vecteezy_a-bed-with-a-gold-headboard-and-blue-velvet_50381114.png"
+    },
+    {
+      "Identity": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\modern bed\\vecteezy_comfortable-bed-with-tufted-headboard-and-linens_50278051.png",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "Images/modern bed/vecteezy_comfortable-bed-with-tufted-headboard-and-linens_50278051#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fvjvjndbey",
+      "Integrity": "W7UIllt4ETVIUFXofmA8Bqo1l1sF/nOvee7pr8ilVJY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\modern bed\\vecteezy_comfortable-bed-with-tufted-headboard-and-linens_50278051.png"
+    },
+    {
+      "Identity": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\new bed\\vecteezy_double-bed-on-transparent-background_48718808.png",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "Images/new bed/vecteezy_double-bed-on-transparent-background_48718808#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ng7slowud4",
+      "Integrity": "Oda38axqq8eEsC5fQ8PpAcukihAsK9Dg7++Wo+DBLHw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\new bed\\vecteezy_double-bed-on-transparent-background_48718808.png"
+    },
+    {
+      "Identity": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\new bed\\vecteezy_double-bed-on-transparent-background_48718864.png",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "Images/new bed/vecteezy_double-bed-on-transparent-background_48718864#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uanpyfw0rt",
+      "Integrity": "NkDKeL8+aQ1WgXCJeMZQbnGtZPhEBWZqqsZNut6t894=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\new bed\\vecteezy_double-bed-on-transparent-background_48718864.png"
+    },
+    {
+      "Identity": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\Office chair\\vecteezy_ai-generated-modern-office-chair-on-png-background_41385467.png",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "Images/Office chair/vecteezy_ai-generated-modern-office-chair-on-png-background_41385467#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fdn1gx031v",
+      "Integrity": "bd+dfRZ/D0n+mScmvLhHVviCcfLOWZ3plUhcw9w5SqE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Office chair\\vecteezy_ai-generated-modern-office-chair-on-png-background_41385467.png"
+    },
+    {
+      "Identity": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\Office chair\\vecteezy_office-chair-isolated-on-transparent_22449107.png",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "Images/Office chair/vecteezy_office-chair-isolated-on-transparent_22449107#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "do7coyqof0",
+      "Integrity": "3THGCSL2KhxuSb1Py6B0HCox4H81A3Pl94UGg4JqbAQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Office chair\\vecteezy_office-chair-isolated-on-transparent_22449107.png"
+    },
+    {
+      "Identity": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\Office chair\\vecteezy_office-chair-with-red-seat-and-chrome-frame_56565249.png",
+      "SourceId": "Ecom.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\",
+      "BasePath": "_content/Ecom.API",
+      "RelativePath": "Images/Office chair/vecteezy_office-chair-with-red-seat-and-chrome-frame_56565249#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ce0zl7sjpz",
+      "Integrity": "POIIrF2gg5TFymidQFCys3I03T6pyg18seRvR0RUn8c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Office chair\\vecteezy_office-chair-with-red-seat-and-chrome-frame_56565249.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Images/ Sofa/vecteezy_modern-and-stylish-sofa-home-interior-furniture-stylish_24788139.c235cb9suz.png",
+      "AssetFile": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\ Sofa\\vecteezy_modern-and-stylish-sofa-home-interior-furniture-stylish_24788139.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2539577"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PDnDiTC+Kn6vykFOIUWTrSIKtAjrOynkFH90iqrgCR4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:59:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c235cb9suz"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/ Sofa/vecteezy_modern-and-stylish-sofa-home-interior-furniture-stylish_24788139.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PDnDiTC+Kn6vykFOIUWTrSIKtAjrOynkFH90iqrgCR4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/ Sofa/vecteezy_modern-and-stylish-sofa-home-interior-furniture-stylish_24788139.png",
+      "AssetFile": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\ Sofa\\vecteezy_modern-and-stylish-sofa-home-interior-furniture-stylish_24788139.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2539577"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PDnDiTC+Kn6vykFOIUWTrSIKtAjrOynkFH90iqrgCR4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:59:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PDnDiTC+Kn6vykFOIUWTrSIKtAjrOynkFH90iqrgCR4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Chair1/vecteezy_ai-generated-armchair-furniture-isolated-on-transparent_40452815.enzw70kxpw.png",
+      "AssetFile": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\Chair1\\vecteezy_ai-generated-armchair-furniture-isolated-on-transparent_40452815.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2505642"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hpwIjgV0bJaGd53p/OKAIX7qWuCudUZ1mPoDI0V9/ro=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:43:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "enzw70kxpw"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Chair1/vecteezy_ai-generated-armchair-furniture-isolated-on-transparent_40452815.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hpwIjgV0bJaGd53p/OKAIX7qWuCudUZ1mPoDI0V9/ro="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Chair1/vecteezy_ai-generated-armchair-furniture-isolated-on-transparent_40452815.png",
+      "AssetFile": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\Chair1\\vecteezy_ai-generated-armchair-furniture-isolated-on-transparent_40452815.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2505642"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hpwIjgV0bJaGd53p/OKAIX7qWuCudUZ1mPoDI0V9/ro=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:43:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hpwIjgV0bJaGd53p/OKAIX7qWuCudUZ1mPoDI0V9/ro="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Chair1/vecteezy_modern-yellow-armchair-png-with-ai-generated_33888588.dwnptzm5ew.png",
+      "AssetFile": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\Chair1\\vecteezy_modern-yellow-armchair-png-with-ai-generated_33888588.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10269221"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PY6eFmTH4JIsUAXP5MDtY3z39YBQCbvIUGrU+KmNt6M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:43:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dwnptzm5ew"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Chair1/vecteezy_modern-yellow-armchair-png-with-ai-generated_33888588.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PY6eFmTH4JIsUAXP5MDtY3z39YBQCbvIUGrU+KmNt6M="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Chair1/vecteezy_modern-yellow-armchair-png-with-ai-generated_33888588.png",
+      "AssetFile": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\Chair1\\vecteezy_modern-yellow-armchair-png-with-ai-generated_33888588.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10269221"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PY6eFmTH4JIsUAXP5MDtY3z39YBQCbvIUGrU+KmNt6M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:43:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PY6eFmTH4JIsUAXP5MDtY3z39YBQCbvIUGrU+KmNt6M="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Chair1/vecteezy_modern-yellow-armchair-png-with-ai-generated_33888620.nlmddnvqq4.png",
+      "AssetFile": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\Chair1\\vecteezy_modern-yellow-armchair-png-with-ai-generated_33888620.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9969444"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qwxbLkh60Akwzae+p/05D7PylRiq7F1PJ1CYj0601uU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:43:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nlmddnvqq4"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Chair1/vecteezy_modern-yellow-armchair-png-with-ai-generated_33888620.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qwxbLkh60Akwzae+p/05D7PylRiq7F1PJ1CYj0601uU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Chair1/vecteezy_modern-yellow-armchair-png-with-ai-generated_33888620.png",
+      "AssetFile": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\Chair1\\vecteezy_modern-yellow-armchair-png-with-ai-generated_33888620.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9969444"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qwxbLkh60Akwzae+p/05D7PylRiq7F1PJ1CYj0601uU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:43:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qwxbLkh60Akwzae+p/05D7PylRiq7F1PJ1CYj0601uU="
+        }
+      ]
+    },
+    {
+      "Route": "Images/comfort chair/vecteezy_cozy-seating-event-green-bean-bag-chair-home-interior_54587804.kszcbrd5td.png",
+      "AssetFile": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\comfort chair\\vecteezy_cozy-seating-event-green-bean-bag-chair-home-interior_54587804.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4816382"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NIf+pIWdFh0xl0b5pdbJkYTI0GoNvYSvLlWBXhCSn18=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:46:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kszcbrd5td"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/comfort chair/vecteezy_cozy-seating-event-green-bean-bag-chair-home-interior_54587804.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NIf+pIWdFh0xl0b5pdbJkYTI0GoNvYSvLlWBXhCSn18="
+        }
+      ]
+    },
+    {
+      "Route": "Images/comfort chair/vecteezy_cozy-seating-event-green-bean-bag-chair-home-interior_54587804.png",
+      "AssetFile": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\comfort chair\\vecteezy_cozy-seating-event-green-bean-bag-chair-home-interior_54587804.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4816382"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NIf+pIWdFh0xl0b5pdbJkYTI0GoNvYSvLlWBXhCSn18=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:46:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NIf+pIWdFh0xl0b5pdbJkYTI0GoNvYSvLlWBXhCSn18="
+        }
+      ]
+    },
+    {
+      "Route": "Images/modern bed/vecteezy_a-bed-with-a-gold-headboard-and-blue-velvet_50381114.n3fpvw6fzj.png",
+      "AssetFile": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\modern bed\\vecteezy_a-bed-with-a-gold-headboard-and-blue-velvet_50381114.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8706052"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tcgfr1UHOBjNM1nk9iI1gdImi+YjLoaD+sFoLZjVvDA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:49:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n3fpvw6fzj"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/modern bed/vecteezy_a-bed-with-a-gold-headboard-and-blue-velvet_50381114.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tcgfr1UHOBjNM1nk9iI1gdImi+YjLoaD+sFoLZjVvDA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/modern bed/vecteezy_a-bed-with-a-gold-headboard-and-blue-velvet_50381114.png",
+      "AssetFile": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\modern bed\\vecteezy_a-bed-with-a-gold-headboard-and-blue-velvet_50381114.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8706052"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Tcgfr1UHOBjNM1nk9iI1gdImi+YjLoaD+sFoLZjVvDA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:49:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Tcgfr1UHOBjNM1nk9iI1gdImi+YjLoaD+sFoLZjVvDA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/modern bed/vecteezy_comfortable-bed-with-tufted-headboard-and-linens_50278051.fvjvjndbey.png",
+      "AssetFile": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\modern bed\\vecteezy_comfortable-bed-with-tufted-headboard-and-linens_50278051.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12801065"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W7UIllt4ETVIUFXofmA8Bqo1l1sF/nOvee7pr8ilVJY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:49:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fvjvjndbey"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/modern bed/vecteezy_comfortable-bed-with-tufted-headboard-and-linens_50278051.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W7UIllt4ETVIUFXofmA8Bqo1l1sF/nOvee7pr8ilVJY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/modern bed/vecteezy_comfortable-bed-with-tufted-headboard-and-linens_50278051.png",
+      "AssetFile": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\modern bed\\vecteezy_comfortable-bed-with-tufted-headboard-and-linens_50278051.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12801065"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W7UIllt4ETVIUFXofmA8Bqo1l1sF/nOvee7pr8ilVJY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:49:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W7UIllt4ETVIUFXofmA8Bqo1l1sF/nOvee7pr8ilVJY="
+        }
+      ]
+    },
+    {
+      "Route": "Images/new bed/vecteezy_double-bed-on-transparent-background_48718808.ng7slowud4.png",
+      "AssetFile": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\new bed\\vecteezy_double-bed-on-transparent-background_48718808.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11056604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Oda38axqq8eEsC5fQ8PpAcukihAsK9Dg7++Wo+DBLHw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:55:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ng7slowud4"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/new bed/vecteezy_double-bed-on-transparent-background_48718808.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Oda38axqq8eEsC5fQ8PpAcukihAsK9Dg7++Wo+DBLHw="
+        }
+      ]
+    },
+    {
+      "Route": "Images/new bed/vecteezy_double-bed-on-transparent-background_48718808.png",
+      "AssetFile": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\new bed\\vecteezy_double-bed-on-transparent-background_48718808.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11056604"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Oda38axqq8eEsC5fQ8PpAcukihAsK9Dg7++Wo+DBLHw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:55:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Oda38axqq8eEsC5fQ8PpAcukihAsK9Dg7++Wo+DBLHw="
+        }
+      ]
+    },
+    {
+      "Route": "Images/new bed/vecteezy_double-bed-on-transparent-background_48718864.png",
+      "AssetFile": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\new bed\\vecteezy_double-bed-on-transparent-background_48718864.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10828270"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NkDKeL8+aQ1WgXCJeMZQbnGtZPhEBWZqqsZNut6t894=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:55:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NkDKeL8+aQ1WgXCJeMZQbnGtZPhEBWZqqsZNut6t894="
+        }
+      ]
+    },
+    {
+      "Route": "Images/new bed/vecteezy_double-bed-on-transparent-background_48718864.uanpyfw0rt.png",
+      "AssetFile": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\new bed\\vecteezy_double-bed-on-transparent-background_48718864.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10828270"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NkDKeL8+aQ1WgXCJeMZQbnGtZPhEBWZqqsZNut6t894=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:55:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uanpyfw0rt"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/new bed/vecteezy_double-bed-on-transparent-background_48718864.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NkDKeL8+aQ1WgXCJeMZQbnGtZPhEBWZqqsZNut6t894="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Office chair/vecteezy_ai-generated-modern-office-chair-on-png-background_41385467.fdn1gx031v.png",
+      "AssetFile": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\Office chair\\vecteezy_ai-generated-modern-office-chair-on-png-background_41385467.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6856463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bd+dfRZ/D0n+mScmvLhHVviCcfLOWZ3plUhcw9w5SqE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:45:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fdn1gx031v"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Office chair/vecteezy_ai-generated-modern-office-chair-on-png-background_41385467.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bd+dfRZ/D0n+mScmvLhHVviCcfLOWZ3plUhcw9w5SqE="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Office chair/vecteezy_ai-generated-modern-office-chair-on-png-background_41385467.png",
+      "AssetFile": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\Office chair\\vecteezy_ai-generated-modern-office-chair-on-png-background_41385467.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6856463"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bd+dfRZ/D0n+mScmvLhHVviCcfLOWZ3plUhcw9w5SqE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:45:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bd+dfRZ/D0n+mScmvLhHVviCcfLOWZ3plUhcw9w5SqE="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Office chair/vecteezy_office-chair-isolated-on-transparent_22449107.do7coyqof0.png",
+      "AssetFile": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\Office chair\\vecteezy_office-chair-isolated-on-transparent_22449107.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3041793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3THGCSL2KhxuSb1Py6B0HCox4H81A3Pl94UGg4JqbAQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:45:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "do7coyqof0"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Office chair/vecteezy_office-chair-isolated-on-transparent_22449107.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3THGCSL2KhxuSb1Py6B0HCox4H81A3Pl94UGg4JqbAQ="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Office chair/vecteezy_office-chair-isolated-on-transparent_22449107.png",
+      "AssetFile": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\Office chair\\vecteezy_office-chair-isolated-on-transparent_22449107.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3041793"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3THGCSL2KhxuSb1Py6B0HCox4H81A3Pl94UGg4JqbAQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:45:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3THGCSL2KhxuSb1Py6B0HCox4H81A3Pl94UGg4JqbAQ="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Office chair/vecteezy_office-chair-with-red-seat-and-chrome-frame_56565249.ce0zl7sjpz.png",
+      "AssetFile": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\Office chair\\vecteezy_office-chair-with-red-seat-and-chrome-frame_56565249.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5636112"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"POIIrF2gg5TFymidQFCys3I03T6pyg18seRvR0RUn8c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:45:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ce0zl7sjpz"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Office chair/vecteezy_office-chair-with-red-seat-and-chrome-frame_56565249.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-POIIrF2gg5TFymidQFCys3I03T6pyg18seRvR0RUn8c="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Office chair/vecteezy_office-chair-with-red-seat-and-chrome-frame_56565249.png",
+      "AssetFile": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\Office chair\\vecteezy_office-chair-with-red-seat-and-chrome-frame_56565249.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5636112"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"POIIrF2gg5TFymidQFCys3I03T6pyg18seRvR0RUn8c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 19:45:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-POIIrF2gg5TFymidQFCys3I03T6pyg18seRvR0RUn8c="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\ Sofa\\vecteezy_modern-and-stylish-sofa-home-interior-furniture-stylish_24788139.png",
+      "PackagePath": "staticwebassets\\Images\\ Sofa\\vecteezy_modern-and-stylish-sofa-home-interior-furniture-stylish_24788139.png"
+    },
+    {
+      "Id": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\Chair1\\vecteezy_ai-generated-armchair-furniture-isolated-on-transparent_40452815.png",
+      "PackagePath": "staticwebassets\\Images\\Chair1\\vecteezy_ai-generated-armchair-furniture-isolated-on-transparent_40452815.png"
+    },
+    {
+      "Id": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\Chair1\\vecteezy_modern-yellow-armchair-png-with-ai-generated_33888588.png",
+      "PackagePath": "staticwebassets\\Images\\Chair1\\vecteezy_modern-yellow-armchair-png-with-ai-generated_33888588.png"
+    },
+    {
+      "Id": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\Chair1\\vecteezy_modern-yellow-armchair-png-with-ai-generated_33888620.png",
+      "PackagePath": "staticwebassets\\Images\\Chair1\\vecteezy_modern-yellow-armchair-png-with-ai-generated_33888620.png"
+    },
+    {
+      "Id": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\Office chair\\vecteezy_ai-generated-modern-office-chair-on-png-background_41385467.png",
+      "PackagePath": "staticwebassets\\Images\\Office chair\\vecteezy_ai-generated-modern-office-chair-on-png-background_41385467.png"
+    },
+    {
+      "Id": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\Office chair\\vecteezy_office-chair-isolated-on-transparent_22449107.png",
+      "PackagePath": "staticwebassets\\Images\\Office chair\\vecteezy_office-chair-isolated-on-transparent_22449107.png"
+    },
+    {
+      "Id": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\Office chair\\vecteezy_office-chair-with-red-seat-and-chrome-frame_56565249.png",
+      "PackagePath": "staticwebassets\\Images\\Office chair\\vecteezy_office-chair-with-red-seat-and-chrome-frame_56565249.png"
+    },
+    {
+      "Id": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\comfort chair\\vecteezy_cozy-seating-event-green-bean-bag-chair-home-interior_54587804.png",
+      "PackagePath": "staticwebassets\\Images\\comfort chair\\vecteezy_cozy-seating-event-green-bean-bag-chair-home-interior_54587804.png"
+    },
+    {
+      "Id": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\modern bed\\vecteezy_a-bed-with-a-gold-headboard-and-blue-velvet_50381114.png",
+      "PackagePath": "staticwebassets\\Images\\modern bed\\vecteezy_a-bed-with-a-gold-headboard-and-blue-velvet_50381114.png"
+    },
+    {
+      "Id": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\modern bed\\vecteezy_comfortable-bed-with-tufted-headboard-and-linens_50278051.png",
+      "PackagePath": "staticwebassets\\Images\\modern bed\\vecteezy_comfortable-bed-with-tufted-headboard-and-linens_50278051.png"
+    },
+    {
+      "Id": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\new bed\\vecteezy_double-bed-on-transparent-background_48718808.png",
+      "PackagePath": "staticwebassets\\Images\\new bed\\vecteezy_double-bed-on-transparent-background_48718808.png"
+    },
+    {
+      "Id": "E:\\ITI Scholarship\\Ecom\\Full-Stack-Ecommerce-Web-API-Angular\\Ecom.API\\wwwroot\\Images\\new bed\\vecteezy_double-bed-on-transparent-background_48718864.png",
+      "PackagePath": "staticwebassets\\Images\\new bed\\vecteezy_double-bed-on-transparent-background_48718864.png"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Ecom.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Ecom.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Ecom.API.props",
+      "PackagePath": "build\\Ecom.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Ecom.API.props",
+      "PackagePath": "buildMultiTargeting\\Ecom.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Ecom.API.props",
+      "PackagePath": "buildTransitive\\Ecom.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

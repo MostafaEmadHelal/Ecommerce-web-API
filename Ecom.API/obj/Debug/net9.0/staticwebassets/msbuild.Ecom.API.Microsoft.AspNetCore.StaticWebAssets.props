@@ -1,0 +1,220 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\ Sofa\vecteezy_modern-and-stylish-sofa-home-interior-furniture-stylish_24788139.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Ecom.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Ecom.API</BasePath>
+      <RelativePath>Images/ Sofa/vecteezy_modern-and-stylish-sofa-home-interior-furniture-stylish_24788139.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>c235cb9suz</Fingerprint>
+      <Integrity>PDnDiTC+Kn6vykFOIUWTrSIKtAjrOynkFH90iqrgCR4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\ Sofa\vecteezy_modern-and-stylish-sofa-home-interior-furniture-stylish_24788139.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Chair1\vecteezy_ai-generated-armchair-furniture-isolated-on-transparent_40452815.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Ecom.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Ecom.API</BasePath>
+      <RelativePath>Images/Chair1/vecteezy_ai-generated-armchair-furniture-isolated-on-transparent_40452815.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>enzw70kxpw</Fingerprint>
+      <Integrity>hpwIjgV0bJaGd53p/OKAIX7qWuCudUZ1mPoDI0V9/ro=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Chair1\vecteezy_ai-generated-armchair-furniture-isolated-on-transparent_40452815.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Chair1\vecteezy_modern-yellow-armchair-png-with-ai-generated_33888588.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Ecom.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Ecom.API</BasePath>
+      <RelativePath>Images/Chair1/vecteezy_modern-yellow-armchair-png-with-ai-generated_33888588.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>dwnptzm5ew</Fingerprint>
+      <Integrity>PY6eFmTH4JIsUAXP5MDtY3z39YBQCbvIUGrU+KmNt6M=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Chair1\vecteezy_modern-yellow-armchair-png-with-ai-generated_33888588.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Chair1\vecteezy_modern-yellow-armchair-png-with-ai-generated_33888620.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Ecom.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Ecom.API</BasePath>
+      <RelativePath>Images/Chair1/vecteezy_modern-yellow-armchair-png-with-ai-generated_33888620.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>nlmddnvqq4</Fingerprint>
+      <Integrity>qwxbLkh60Akwzae+p/05D7PylRiq7F1PJ1CYj0601uU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Chair1\vecteezy_modern-yellow-armchair-png-with-ai-generated_33888620.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\comfort chair\vecteezy_cozy-seating-event-green-bean-bag-chair-home-interior_54587804.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Ecom.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Ecom.API</BasePath>
+      <RelativePath>Images/comfort chair/vecteezy_cozy-seating-event-green-bean-bag-chair-home-interior_54587804.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>kszcbrd5td</Fingerprint>
+      <Integrity>NIf+pIWdFh0xl0b5pdbJkYTI0GoNvYSvLlWBXhCSn18=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\comfort chair\vecteezy_cozy-seating-event-green-bean-bag-chair-home-interior_54587804.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\modern bed\vecteezy_a-bed-with-a-gold-headboard-and-blue-velvet_50381114.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Ecom.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Ecom.API</BasePath>
+      <RelativePath>Images/modern bed/vecteezy_a-bed-with-a-gold-headboard-and-blue-velvet_50381114.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>n3fpvw6fzj</Fingerprint>
+      <Integrity>Tcgfr1UHOBjNM1nk9iI1gdImi+YjLoaD+sFoLZjVvDA=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\modern bed\vecteezy_a-bed-with-a-gold-headboard-and-blue-velvet_50381114.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\modern bed\vecteezy_comfortable-bed-with-tufted-headboard-and-linens_50278051.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Ecom.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Ecom.API</BasePath>
+      <RelativePath>Images/modern bed/vecteezy_comfortable-bed-with-tufted-headboard-and-linens_50278051.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>fvjvjndbey</Fingerprint>
+      <Integrity>W7UIllt4ETVIUFXofmA8Bqo1l1sF/nOvee7pr8ilVJY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\modern bed\vecteezy_comfortable-bed-with-tufted-headboard-and-linens_50278051.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\new bed\vecteezy_double-bed-on-transparent-background_48718808.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Ecom.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Ecom.API</BasePath>
+      <RelativePath>Images/new bed/vecteezy_double-bed-on-transparent-background_48718808.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ng7slowud4</Fingerprint>
+      <Integrity>Oda38axqq8eEsC5fQ8PpAcukihAsK9Dg7++Wo+DBLHw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\new bed\vecteezy_double-bed-on-transparent-background_48718808.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\new bed\vecteezy_double-bed-on-transparent-background_48718864.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Ecom.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Ecom.API</BasePath>
+      <RelativePath>Images/new bed/vecteezy_double-bed-on-transparent-background_48718864.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>uanpyfw0rt</Fingerprint>
+      <Integrity>NkDKeL8+aQ1WgXCJeMZQbnGtZPhEBWZqqsZNut6t894=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\new bed\vecteezy_double-bed-on-transparent-background_48718864.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Office chair\vecteezy_ai-generated-modern-office-chair-on-png-background_41385467.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Ecom.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Ecom.API</BasePath>
+      <RelativePath>Images/Office chair/vecteezy_ai-generated-modern-office-chair-on-png-background_41385467.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>fdn1gx031v</Fingerprint>
+      <Integrity>bd+dfRZ/D0n+mScmvLhHVviCcfLOWZ3plUhcw9w5SqE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Office chair\vecteezy_ai-generated-modern-office-chair-on-png-background_41385467.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Office chair\vecteezy_office-chair-isolated-on-transparent_22449107.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Ecom.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Ecom.API</BasePath>
+      <RelativePath>Images/Office chair/vecteezy_office-chair-isolated-on-transparent_22449107.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>do7coyqof0</Fingerprint>
+      <Integrity>3THGCSL2KhxuSb1Py6B0HCox4H81A3Pl94UGg4JqbAQ=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Office chair\vecteezy_office-chair-isolated-on-transparent_22449107.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Office chair\vecteezy_office-chair-with-red-seat-and-chrome-frame_56565249.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Ecom.API</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Ecom.API</BasePath>
+      <RelativePath>Images/Office chair/vecteezy_office-chair-with-red-seat-and-chrome-frame_56565249.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ce0zl7sjpz</Fingerprint>
+      <Integrity>POIIrF2gg5TFymidQFCys3I03T6pyg18seRvR0RUn8c=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Office chair\vecteezy_office-chair-with-red-seat-and-chrome-frame_56565249.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

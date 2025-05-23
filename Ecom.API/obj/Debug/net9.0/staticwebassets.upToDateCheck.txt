@@ -1,0 +1,12 @@
+wwwroot\Images\ Sofa\vecteezy_modern-and-stylish-sofa-home-interior-furniture-stylish_24788139.png
+wwwroot\Images\Chair1\vecteezy_ai-generated-armchair-furniture-isolated-on-transparent_40452815.png
+wwwroot\Images\Chair1\vecteezy_modern-yellow-armchair-png-with-ai-generated_33888588.png
+wwwroot\Images\Chair1\vecteezy_modern-yellow-armchair-png-with-ai-generated_33888620.png
+wwwroot\Images\comfort chair\vecteezy_cozy-seating-event-green-bean-bag-chair-home-interior_54587804.png
+wwwroot\Images\modern bed\vecteezy_a-bed-with-a-gold-headboard-and-blue-velvet_50381114.png
+wwwroot\Images\modern bed\vecteezy_comfortable-bed-with-tufted-headboard-and-linens_50278051.png
+wwwroot\Images\new bed\vecteezy_double-bed-on-transparent-background_48718808.png
+wwwroot\Images\new bed\vecteezy_double-bed-on-transparent-background_48718864.png
+wwwroot\Images\Office chair\vecteezy_ai-generated-modern-office-chair-on-png-background_41385467.png
+wwwroot\Images\Office chair\vecteezy_office-chair-isolated-on-transparent_22449107.png
+wwwroot\Images\Office chair\vecteezy_office-chair-with-red-seat-and-chrome-frame_56565249.png

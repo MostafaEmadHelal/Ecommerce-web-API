@@ -1,0 +1,148 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/ Sofa/vecteezy_modern-and-stylish-sofa-home-interior-furniture-stylish_24788139.c235cb9suz.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\ Sofa\vecteezy_modern-and-stylish-sofa-home-interior-furniture-stylish_24788139.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c235cb9suz"},{"Name":"integrity","Value":"sha256-PDnDiTC\u002BKn6vykFOIUWTrSIKtAjrOynkFH90iqrgCR4="},{"Name":"label","Value":"_content/Ecom.API/Images/ Sofa/vecteezy_modern-and-stylish-sofa-home-interior-furniture-stylish_24788139.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2539577"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022PDnDiTC\u002BKn6vykFOIUWTrSIKtAjrOynkFH90iqrgCR4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 19:59:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/ Sofa/vecteezy_modern-and-stylish-sofa-home-interior-furniture-stylish_24788139.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\ Sofa\vecteezy_modern-and-stylish-sofa-home-interior-furniture-stylish_24788139.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PDnDiTC\u002BKn6vykFOIUWTrSIKtAjrOynkFH90iqrgCR4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"2539577"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022PDnDiTC\u002BKn6vykFOIUWTrSIKtAjrOynkFH90iqrgCR4=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 19:59:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/Chair1/vecteezy_ai-generated-armchair-furniture-isolated-on-transparent_40452815.enzw70kxpw.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Chair1\vecteezy_ai-generated-armchair-furniture-isolated-on-transparent_40452815.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"enzw70kxpw"},{"Name":"integrity","Value":"sha256-hpwIjgV0bJaGd53p/OKAIX7qWuCudUZ1mPoDI0V9/ro="},{"Name":"label","Value":"_content/Ecom.API/Images/Chair1/vecteezy_ai-generated-armchair-furniture-isolated-on-transparent_40452815.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2505642"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022hpwIjgV0bJaGd53p/OKAIX7qWuCudUZ1mPoDI0V9/ro=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 19:43:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/Chair1/vecteezy_ai-generated-armchair-furniture-isolated-on-transparent_40452815.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Chair1\vecteezy_ai-generated-armchair-furniture-isolated-on-transparent_40452815.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hpwIjgV0bJaGd53p/OKAIX7qWuCudUZ1mPoDI0V9/ro="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"2505642"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022hpwIjgV0bJaGd53p/OKAIX7qWuCudUZ1mPoDI0V9/ro=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 19:43:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/Chair1/vecteezy_modern-yellow-armchair-png-with-ai-generated_33888588.dwnptzm5ew.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Chair1\vecteezy_modern-yellow-armchair-png-with-ai-generated_33888588.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dwnptzm5ew"},{"Name":"integrity","Value":"sha256-PY6eFmTH4JIsUAXP5MDtY3z39YBQCbvIUGrU\u002BKmNt6M="},{"Name":"label","Value":"_content/Ecom.API/Images/Chair1/vecteezy_modern-yellow-armchair-png-with-ai-generated_33888588.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10269221"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022PY6eFmTH4JIsUAXP5MDtY3z39YBQCbvIUGrU\u002BKmNt6M=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 19:43:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/Chair1/vecteezy_modern-yellow-armchair-png-with-ai-generated_33888588.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Chair1\vecteezy_modern-yellow-armchair-png-with-ai-generated_33888588.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PY6eFmTH4JIsUAXP5MDtY3z39YBQCbvIUGrU\u002BKmNt6M="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10269221"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022PY6eFmTH4JIsUAXP5MDtY3z39YBQCbvIUGrU\u002BKmNt6M=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 19:43:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/Chair1/vecteezy_modern-yellow-armchair-png-with-ai-generated_33888620.nlmddnvqq4.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Chair1\vecteezy_modern-yellow-armchair-png-with-ai-generated_33888620.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nlmddnvqq4"},{"Name":"integrity","Value":"sha256-qwxbLkh60Akwzae\u002Bp/05D7PylRiq7F1PJ1CYj0601uU="},{"Name":"label","Value":"_content/Ecom.API/Images/Chair1/vecteezy_modern-yellow-armchair-png-with-ai-generated_33888620.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9969444"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022qwxbLkh60Akwzae\u002Bp/05D7PylRiq7F1PJ1CYj0601uU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 19:43:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/Chair1/vecteezy_modern-yellow-armchair-png-with-ai-generated_33888620.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Chair1\vecteezy_modern-yellow-armchair-png-with-ai-generated_33888620.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qwxbLkh60Akwzae\u002Bp/05D7PylRiq7F1PJ1CYj0601uU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9969444"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022qwxbLkh60Akwzae\u002Bp/05D7PylRiq7F1PJ1CYj0601uU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 19:43:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/comfort chair/vecteezy_cozy-seating-event-green-bean-bag-chair-home-interior_54587804.kszcbrd5td.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\comfort chair\vecteezy_cozy-seating-event-green-bean-bag-chair-home-interior_54587804.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kszcbrd5td"},{"Name":"integrity","Value":"sha256-NIf\u002BpIWdFh0xl0b5pdbJkYTI0GoNvYSvLlWBXhCSn18="},{"Name":"label","Value":"_content/Ecom.API/Images/comfort chair/vecteezy_cozy-seating-event-green-bean-bag-chair-home-interior_54587804.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4816382"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022NIf\u002BpIWdFh0xl0b5pdbJkYTI0GoNvYSvLlWBXhCSn18=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 19:46:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/comfort chair/vecteezy_cozy-seating-event-green-bean-bag-chair-home-interior_54587804.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\comfort chair\vecteezy_cozy-seating-event-green-bean-bag-chair-home-interior_54587804.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NIf\u002BpIWdFh0xl0b5pdbJkYTI0GoNvYSvLlWBXhCSn18="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4816382"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022NIf\u002BpIWdFh0xl0b5pdbJkYTI0GoNvYSvLlWBXhCSn18=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 19:46:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/modern bed/vecteezy_a-bed-with-a-gold-headboard-and-blue-velvet_50381114.n3fpvw6fzj.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\modern bed\vecteezy_a-bed-with-a-gold-headboard-and-blue-velvet_50381114.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"n3fpvw6fzj"},{"Name":"integrity","Value":"sha256-Tcgfr1UHOBjNM1nk9iI1gdImi\u002BYjLoaD\u002BsFoLZjVvDA="},{"Name":"label","Value":"_content/Ecom.API/Images/modern bed/vecteezy_a-bed-with-a-gold-headboard-and-blue-velvet_50381114.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8706052"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Tcgfr1UHOBjNM1nk9iI1gdImi\u002BYjLoaD\u002BsFoLZjVvDA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 19:49:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/modern bed/vecteezy_a-bed-with-a-gold-headboard-and-blue-velvet_50381114.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\modern bed\vecteezy_a-bed-with-a-gold-headboard-and-blue-velvet_50381114.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Tcgfr1UHOBjNM1nk9iI1gdImi\u002BYjLoaD\u002BsFoLZjVvDA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8706052"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Tcgfr1UHOBjNM1nk9iI1gdImi\u002BYjLoaD\u002BsFoLZjVvDA=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 19:49:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/modern bed/vecteezy_comfortable-bed-with-tufted-headboard-and-linens_50278051.fvjvjndbey.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\modern bed\vecteezy_comfortable-bed-with-tufted-headboard-and-linens_50278051.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fvjvjndbey"},{"Name":"integrity","Value":"sha256-W7UIllt4ETVIUFXofmA8Bqo1l1sF/nOvee7pr8ilVJY="},{"Name":"label","Value":"_content/Ecom.API/Images/modern bed/vecteezy_comfortable-bed-with-tufted-headboard-and-linens_50278051.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12801065"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022W7UIllt4ETVIUFXofmA8Bqo1l1sF/nOvee7pr8ilVJY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 19:49:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/modern bed/vecteezy_comfortable-bed-with-tufted-headboard-and-linens_50278051.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\modern bed\vecteezy_comfortable-bed-with-tufted-headboard-and-linens_50278051.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-W7UIllt4ETVIUFXofmA8Bqo1l1sF/nOvee7pr8ilVJY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12801065"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022W7UIllt4ETVIUFXofmA8Bqo1l1sF/nOvee7pr8ilVJY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 19:49:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/new bed/vecteezy_double-bed-on-transparent-background_48718808.ng7slowud4.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\new bed\vecteezy_double-bed-on-transparent-background_48718808.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ng7slowud4"},{"Name":"integrity","Value":"sha256-Oda38axqq8eEsC5fQ8PpAcukihAsK9Dg7\u002B\u002BWo\u002BDBLHw="},{"Name":"label","Value":"_content/Ecom.API/Images/new bed/vecteezy_double-bed-on-transparent-background_48718808.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11056604"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Oda38axqq8eEsC5fQ8PpAcukihAsK9Dg7\u002B\u002BWo\u002BDBLHw=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 19:55:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/new bed/vecteezy_double-bed-on-transparent-background_48718808.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\new bed\vecteezy_double-bed-on-transparent-background_48718808.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Oda38axqq8eEsC5fQ8PpAcukihAsK9Dg7\u002B\u002BWo\u002BDBLHw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11056604"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Oda38axqq8eEsC5fQ8PpAcukihAsK9Dg7\u002B\u002BWo\u002BDBLHw=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 19:55:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/new bed/vecteezy_double-bed-on-transparent-background_48718864.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\new bed\vecteezy_double-bed-on-transparent-background_48718864.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NkDKeL8\u002BaQ1WgXCJeMZQbnGtZPhEBWZqqsZNut6t894="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10828270"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022NkDKeL8\u002BaQ1WgXCJeMZQbnGtZPhEBWZqqsZNut6t894=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 19:55:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/new bed/vecteezy_double-bed-on-transparent-background_48718864.uanpyfw0rt.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\new bed\vecteezy_double-bed-on-transparent-background_48718864.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uanpyfw0rt"},{"Name":"integrity","Value":"sha256-NkDKeL8\u002BaQ1WgXCJeMZQbnGtZPhEBWZqqsZNut6t894="},{"Name":"label","Value":"_content/Ecom.API/Images/new bed/vecteezy_double-bed-on-transparent-background_48718864.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10828270"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022NkDKeL8\u002BaQ1WgXCJeMZQbnGtZPhEBWZqqsZNut6t894=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 19:55:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/Office chair/vecteezy_ai-generated-modern-office-chair-on-png-background_41385467.fdn1gx031v.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Office chair\vecteezy_ai-generated-modern-office-chair-on-png-background_41385467.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fdn1gx031v"},{"Name":"integrity","Value":"sha256-bd\u002BdfRZ/D0n\u002BmScmvLhHVviCcfLOWZ3plUhcw9w5SqE="},{"Name":"label","Value":"_content/Ecom.API/Images/Office chair/vecteezy_ai-generated-modern-office-chair-on-png-background_41385467.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6856463"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022bd\u002BdfRZ/D0n\u002BmScmvLhHVviCcfLOWZ3plUhcw9w5SqE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 19:45:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/Office chair/vecteezy_ai-generated-modern-office-chair-on-png-background_41385467.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Office chair\vecteezy_ai-generated-modern-office-chair-on-png-background_41385467.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bd\u002BdfRZ/D0n\u002BmScmvLhHVviCcfLOWZ3plUhcw9w5SqE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"6856463"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022bd\u002BdfRZ/D0n\u002BmScmvLhHVviCcfLOWZ3plUhcw9w5SqE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 19:45:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/Office chair/vecteezy_office-chair-isolated-on-transparent_22449107.do7coyqof0.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Office chair\vecteezy_office-chair-isolated-on-transparent_22449107.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"do7coyqof0"},{"Name":"integrity","Value":"sha256-3THGCSL2KhxuSb1Py6B0HCox4H81A3Pl94UGg4JqbAQ="},{"Name":"label","Value":"_content/Ecom.API/Images/Office chair/vecteezy_office-chair-isolated-on-transparent_22449107.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3041793"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00223THGCSL2KhxuSb1Py6B0HCox4H81A3Pl94UGg4JqbAQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 19:45:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/Office chair/vecteezy_office-chair-isolated-on-transparent_22449107.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Office chair\vecteezy_office-chair-isolated-on-transparent_22449107.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3THGCSL2KhxuSb1Py6B0HCox4H81A3Pl94UGg4JqbAQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3041793"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00223THGCSL2KhxuSb1Py6B0HCox4H81A3Pl94UGg4JqbAQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 19:45:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/Office chair/vecteezy_office-chair-with-red-seat-and-chrome-frame_56565249.ce0zl7sjpz.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Office chair\vecteezy_office-chair-with-red-seat-and-chrome-frame_56565249.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ce0zl7sjpz"},{"Name":"integrity","Value":"sha256-POIIrF2gg5TFymidQFCys3I03T6pyg18seRvR0RUn8c="},{"Name":"label","Value":"_content/Ecom.API/Images/Office chair/vecteezy_office-chair-with-red-seat-and-chrome-frame_56565249.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5636112"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022POIIrF2gg5TFymidQFCys3I03T6pyg18seRvR0RUn8c=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 19:45:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/Office chair/vecteezy_office-chair-with-red-seat-and-chrome-frame_56565249.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Office chair\vecteezy_office-chair-with-red-seat-and-chrome-frame_56565249.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-POIIrF2gg5TFymidQFCys3I03T6pyg18seRvR0RUn8c="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5636112"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022POIIrF2gg5TFymidQFCys3I03T6pyg18seRvR0RUn8c=\u0022"},{"Name":"Last-Modified","Value":"Fri, 23 May 2025 19:45:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
